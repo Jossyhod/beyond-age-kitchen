@@ -468,12 +468,13 @@ a.logo {
 
 a.logo span {
     color: orange;
-    font-size: 15px;
-    letter-spacing: 5px;
+    font-size: 20px;
+    letter-spacing: 2px;
     font-weight: 700;
     position: absolute;
     right: 0;
-    top: -2px;
+    top: -5px;
+    left:-10px
 }
 
 /* //logo */
@@ -624,7 +625,7 @@ a.button-w3ls:hover {
 
 /* about */
 .about {
-    background: url(../images/banner.jpg) no-repeat left;
+    background: url(../images/beyod_age_kitchen-removebg-preview.png) no-repeat left;
     background-size: cover;
     -webkit-background-size: contain;
     -moz-background-size: cover;
